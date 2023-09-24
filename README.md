@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Gokul
 
-*🎓 MSc physics -> Cochin University of Science and Technology
+* 🎓 MSc physics -> Cochin University of Science and Technology
 
-*🗿 Open to work colaboration and projects
+* 🗿 Open to work colaboration and projects
 <!--
 **venomslasher/venomslasher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
