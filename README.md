@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Gokul
 
+* Project Associate -> Delhi University
+
 * 🎓 MSc physics -> Cochin University of Science and Technology
 
 * 🗿 Open to work colaboration and projects
