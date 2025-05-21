@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/gokul-n-9907291a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/gokul3099/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/venomslasher)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/V4Venomslasher)
 
